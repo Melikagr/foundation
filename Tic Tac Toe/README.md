@@ -55,6 +55,3 @@ Please choose one of the squares:
         
 ## Contributing
 Feel free to fork this project, submit issues, or open pull requests for improvements!
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
